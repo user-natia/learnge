@@ -1,2 +1,3 @@
 # learnge
-validation du cours
+Les codes sources pour le site Learnge. 
+PHP PDO MYSQL JQUERY XHTML CSS
